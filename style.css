@@ -356,6 +356,10 @@ cursor: pointer;
         padding: 0 10px;
     }
 
+ .container .flower img {
+        height: 150px;
+    }
+
     .flower-lover {
         flex-direction: column;
         margin: 50px 10px;
@@ -399,6 +403,10 @@ cursor: pointer;
     .deal-text h3 {
         font-size: 24px;
     }
+
+.deal-card, .right-deal {
+    height: 250px; 
+  }
 
     .bunch {
         width: 100%;
